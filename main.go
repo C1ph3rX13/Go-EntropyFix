@@ -29,7 +29,8 @@ func banner() {
 	@Auth: C1ph3rX13
 	@Blog: https://c1ph3rx13.github.io
 	@Note: EntropyFix - Go
-	@Warn: 代码仅供学习使用，请勿用于其他用途`)
+	@Warn: 代码仅供学习使用，请勿用于其他用途
+	`)
 }
 
 func ReduceEntropy(payload []byte) ([]byte, int) {
